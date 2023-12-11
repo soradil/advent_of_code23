@@ -1,4 +1,6 @@
-# advent_of_code23
+# Soradil vs Advent of Code 2023
+
+### Introduction
 This repository will contain my solutions in the C programming language to the Advent of Code 2023 competition (https://adventofcode.com)
 
 > *More about Advent of code:*
