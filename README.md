@@ -9,3 +9,13 @@ This repository will contain my solutions in the C programming language to the A
 > >
 > > You don't need a computer science background to participate - just a little programming knowledge and some problem solving skills will get you pretty far.
 > > Nor do you need a fancy computer; every problem has a solution that completes in at most 15 seconds on ten-year-old hardware.
+
+### Difficulty Rating
+
+Day 1: ⭐⭐⭐
+
+Day 2: ⭐⭐
+
+Day 3: ⭐⭐⭐⭐⭐
+
+Day 4: ⭐⭐⭐⭐
