@@ -4,9 +4,9 @@
 
 // Macronis
 #define IS_DIGIT(N)             (((N)>='0') && ((N)<='9'))
-#define true 1
-#define false 0
-
+#define true                    1
+#define false                   0
+#define RESET_CHARACTER         'r'
 
 typedef struct {
     size_t n; // size of vec
@@ -92,7 +92,7 @@ size_t day5_part1(){
             ungetc(c, map);
         }
 
-        if(c=='r'){
+        if(c==RESET_CHARACTER){
             clear_array(&alt, seed_vec.n);
         }
 
@@ -182,7 +182,7 @@ size_t day5_part2(){
             ungetc(c, map);
         }
 
-        if(c=='r'){
+        if(c==RESET_CHARACTER){
             clear_array(&alt, alt.n);
         }
 
@@ -260,6 +260,8 @@ size_t day5_part2(){
                     extend_vec(&alt, false);
                     
                 }
+        
+
 
 
                 if(seed_vec.p[i] >= source && seed_vec.p[i] < source+range){
