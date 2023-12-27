@@ -13,6 +13,8 @@ This repository will contain my solutions in the C programming language to the A
 
 ### Difficulty Rating
 
+Below is my personal difficulty rating based on each day, where five stars is the most difficult and one star is the easiest.
+
 Day 1: ⭐⭐⭐
 
 Day 2: ⭐⭐
